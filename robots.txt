@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: bonusy-za-registraciyu-i-depozit.github.io
+Sitemap: https://bonusy-za-registraciyu-i-depozit.github.io/sitemap.xml
